@@ -1,0 +1,10 @@
+
+.buttons button {
+    height: fit-content;
+    width: fit-content;
+  }
+
+.my-card {
+    border: 0px;
+}
+
